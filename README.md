@@ -1,4 +1,3 @@
-![alt text](https://media2.giphy.com/avatars/princesscheeto/3jTa7ecKBOYE/80h.gif)
 ## Welcome to my world! 
 
 ![alt text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd5NWtiaDU4cmJjaWdhMzF2cXVsaTV0dzQyMWt5cnoyZHo0MjFpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LWJ7cKyiWPCnVyuAhT/giphy.webp)
@@ -13,19 +12,15 @@
 
 ## My technologies
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50"/>       
-
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50"/>       
 
 -------------
 
-| Cursos | Certificados |
-|--------|--------------|
-| Angular| [Certificado](https://hermes.dio.me/certificates/QJOP94MW.pdf)
-| React  | [Certificado](https://hermes.dio.me/certificates/L7OIARDM.pdf)
+| Cursos     | Certificados                                                   |
+|------------|----------------------------------------------------------------|
+| Angular    | [Certificado](https://hermes.dio.me/certificates/QJOP94MW.pdf) |
+| React      | [Certificado](https://hermes.dio.me/certificates/L7OIARDM.pdf) |
+| JavaScript | [Certificado](https://hermes.dio.me/certificates/06W8FPFJ.pdf) |
 
 ------------------
 
