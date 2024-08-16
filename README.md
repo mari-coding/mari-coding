@@ -1,18 +1,17 @@
 <h1 align="center">Welcome to my world!</h1>
 
-![alt text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd5NWtiaDU4cmJjaWdhMzF2cXVsaTV0dzQyMWt5cnoyZHo0MjFpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LWJ7cKyiWPCnVyuAhT/giphy.webp)
+Hello, my name's Mariana Cruz! I'm a self-taught passionate FrontEnd student from Brazil 🇧🇷<br>
 
----------------
+**About me**
 
-💼 Hello, my name is Mariana Cruz! <br>
-💬 I'm a web developer front-end. <br>
-📫[Visit my Linkedin](https://www.linkedin.com/in/mariana-cruz-83003512b/)
+- 💼 I'm a Front-end student <br>
+- ❤️ I love building fun experiments on type-level <br>
+- 💬 Open to chat!
+- 📫[Visit my Linkedin](https://www.linkedin.com/in/mariana-cruz-83003512b/)
 
------------------
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/></p>
 
-<h2 align="center">My technologies</h2>
-
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/></p>   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-coding&show_icons=true&theme=buefy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-coding&layout=compact&theme=buefy)
 
 ------------------
 
@@ -21,12 +20,6 @@
 | Angular    | [Certificado](https://hermes.dio.me/certificates/QJOP94MW.pdf) |
 | React      | [Certificado](https://hermes.dio.me/certificates/L7OIARDM.pdf) |
 | JavaScript | [Certificado](https://hermes.dio.me/certificates/06W8FPFJ.pdf) |
-
-------------------
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-coding&show_icons=true&theme=buefy)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-coding&layout=compact&theme=buefy)
 
 <!--
 **mari-coding/mari-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
