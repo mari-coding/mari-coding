@@ -10,7 +10,7 @@ Hello, my name's Mariana Cruz! I'm a self-taught passionate FrontEnd student fro
 - 💬 Open to chat!
 - 📫[Visit my Linkedin](https://www.linkedin.com/in/mariana-cruz-83003512b/)
 
-<img src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fangular.dev%2Fpress-kit&psig=AOvVaw3LUoACjh3l_O0PucoOWR_a&ust=1723896976837000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiakOm--YcDFQAAAAAdAAAAABAE" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/>
 
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=mari-coding&show_icons=true&theme=buefy" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari-coding&layout=compact&theme=buefy" /></a> |
 | ------------- | ------------- |
