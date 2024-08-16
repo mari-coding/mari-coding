@@ -5,9 +5,9 @@ Hello, my name's Mariana Cruz! I'm a self-taught passionate FrontEnd student fro
 
 **About me**
 
-- 💼 I'm a Front-end student <br>
-- 📈 I'm currently learnin UX/UI design <br>
-- ❤️ I love building fun experiments on type-level <br>
+- 💼 I'm a Front-end student <br><br>
+- 📈 I'm currently learnin UX/UI design <br><br>
+- ❤️ I love building fun experiments on type-level <br><br>
 - 💬 I'm open to talk!
 - 📫[Visit my Linkedin](https://www.linkedin.com/in/mariana-cruz-83003512b/)
 
