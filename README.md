@@ -1,6 +1,7 @@
+<br>
 <h1 align="center">Welcome to my world!</h1>
-
-Hello, my name's Mariana Cruz! I'm a self-taught passionate FrontEnd student from Brazil 🇧🇷<br>
+<br>
+Hello, my name's Mariana Cruz! I'm a self-taught passionate FrontEnd student from Brazil 🇧🇷
 
 **About me**
 
@@ -9,11 +10,10 @@ Hello, my name's Mariana Cruz! I'm a self-taught passionate FrontEnd student fro
 - 💬 Open to chat!
 - 📫[Visit my Linkedin](https://www.linkedin.com/in/mariana-cruz-83003512b/)
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/></p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-coding&show_icons=true&theme=buefy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-coding&layout=compact&theme=buefy)
-
-------------------
+<a>![GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-coding&show_icons=true&theme=buefy)!</a>
+<a>[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-coding&layout=compact&theme=buefy)</a>
 
 | Cursos     | Certificados                                                   |
 |------------|----------------------------------------------------------------|
