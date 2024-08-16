@@ -15,7 +15,7 @@ Hello, my name's Mariana Cruz! I'm a self-taught passionate FrontEnd student fro
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=mari-coding&show_icons=true&theme=buefy" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari-coding&layout=compact&theme=buefy" /></a> |
 | ------------- | ------------- |
 
-| Cursos     | Certificados                                                   |
+| Courses     | Certificates                                                   |
 |------------|----------------------------------------------------------------|
 | Angular    | [Certificado](https://hermes.dio.me/certificates/QJOP94MW.pdf) |
 | React      | [Certificado](https://hermes.dio.me/certificates/L7OIARDM.pdf) |
