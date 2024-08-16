@@ -8,8 +8,8 @@ Hello, my name's Mariana Cruz! I'm a self-taught passionate FrontEnd student fro
 - 💼 I'm a Front-end student <br><br>
 - 📈 I'm currently learnin UX/UI design <br><br>
 - ❤️ I love building fun experiments on type-level <br><br>
-- 💬 I'm open to talk!
-- 📫[Visit my Linkedin](https://www.linkedin.com/in/mariana-cruz-83003512b/)
+- 💬 I'm open to talk! <br><br>
+- 📫[Visit my Linkedin](https://www.linkedin.com/in/mariana-cruz-83003512b/) <br><br>
 
 <img src="https://images.ctfassets.net/zojzzdop0fzx/2LzaUqPdXBjtAbFTaDGbW0/a8b4fbfd6ccab7d6de4c3b0803a35ae5/angular_gradient.svg?fm=webp&w=256&q=75" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/>
 
