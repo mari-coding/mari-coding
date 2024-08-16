@@ -1,6 +1,6 @@
 <br>
 <h1 align="center">Welcome to my world!</h1>
-<br>
+<br><br>
 Hello, my name's Mariana Cruz! I'm a self-taught passionate FrontEnd student from Brazil 🇧🇷
 <br><br>
 
