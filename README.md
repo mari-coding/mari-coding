@@ -25,7 +25,7 @@
 
 ------------------
 
-![Mariana Cruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-coding&show_icons=true&theme=transparent)
+![Mariana Cruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-coding&show_icons=true&theme=buefy)
 
 
           
