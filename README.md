@@ -10,7 +10,7 @@ Hello, my name's Mariana Cruz! I'm a self-taught passionate FrontEnd student fro
 - 💬 Open to chat!
 - 📫[Visit my Linkedin](https://www.linkedin.com/in/mariana-cruz-83003512b/)
 
-<img src="h![alt text](image-8.png)" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/>
+<img src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/>
 
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=mari-coding&show_icons=true&theme=buefy" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari-coding&layout=compact&theme=buefy" /></a> |
 | ------------- | ------------- |
