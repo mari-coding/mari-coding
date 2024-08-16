@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to my world!</h1>
 <br>
 Hello, my name's Mariana Cruz! I'm a self-taught passionate FrontEnd student from Brazil 🇧🇷
-
+<br>
 **About me**
 
 - 💼 I'm a Front-end student <br>
@@ -36,10 +36,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-*italico* <br>
-_italico_
-**negrito**
-__negrito__
+*italico*  _italico_
+**negrito**  __negrito__
 ___negrito e italico___
 
 - lista
