@@ -3,6 +3,7 @@
 <br>
 Hello, my name's Mariana Cruz! I'm a self-taught passionate FrontEnd student from Brazil 🇧🇷
 <br>
+
 **About me**
 
 - 💼 I'm a Front-end student <br>
