@@ -1,4 +1,4 @@
-# Welcome to my world! 
+<h1 align="center">Welcome to my world!</h1>
 
 ![alt text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd5NWtiaDU4cmJjaWdhMzF2cXVsaTV0dzQyMWt5cnoyZHo0MjFpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LWJ7cKyiWPCnVyuAhT/giphy.webp)
 
@@ -13,7 +13,7 @@
 ## My technologies
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/>       
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/></p>       
 
 -------------
 
