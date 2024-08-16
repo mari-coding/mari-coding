@@ -26,12 +26,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mari-coding&show_icons=true&theme=buefy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mari-coding&layout=compact&theme=buefy)
-
-
-          
-          
-          
+![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=mari-coding.github.io&theme=buefy)
 
 <!--
 **mari-coding/mari-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
