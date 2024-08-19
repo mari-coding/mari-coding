@@ -1,5 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Mariana. I do open source!" src="./assets/gh-readme-header.png" /></p>
-
+# Welcome to my world!
 <br><br>
 Hello, my name's Mariana Cruz! I'm a self-taught passionate FrontEnd student from Brazil 🇧🇷
 <br><br>
