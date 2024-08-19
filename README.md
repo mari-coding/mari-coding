@@ -18,7 +18,7 @@ Hello, my name's Mariana Cruz! I'm a self-taught passionate FrontEnd student fro
 
 <br>
 
-| Courses     | Certificates                                                   |
+| Courses    | Certificates                                                   |
 |------------|----------------------------------------------------------------|
 | Angular    | [Certificado](https://hermes.dio.me/certificates/QJOP94MW.pdf) |
 | React      | [Certificado](https://hermes.dio.me/certificates/L7OIARDM.pdf) |
@@ -64,7 +64,10 @@ ___negrito e italico___
 | texto 3     | texto 4     |
 
 - [x] tarefa 1
-- [x] tarefa 2 -->
+- [x] tarefa 2 
+
+----------- pula linha
+-->
 
 
 
