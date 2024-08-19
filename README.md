@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my world!</h1>
+# Welcome to my world!
 <br><br>
 Hello, my name's Mariana Cruz! I'm a self-taught passionate FrontEnd student from Brazil 🇧🇷
 <br><br>
