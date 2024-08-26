@@ -1,4 +1,4 @@
-# Hello, world!
+# Hello, world :)
 <br><br>
 My name's Mariana Cruz! I'm a self-taught passionate FrontEnd student from Brazil 🇧🇷
 <br><br>
