@@ -1,6 +1,6 @@
-# Welcome to my world!
+# Hello, world!
 <br><br>
-Hello, my name's Mariana Cruz! I'm a self-taught passionate FrontEnd student from Brazil 🇧🇷
+My name's Mariana Cruz! I'm a self-taught passionate FrontEnd student from Brazil 🇧🇷
 <br><br>
 
 **About me**
